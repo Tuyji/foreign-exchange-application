@@ -22,7 +22,6 @@ Simple foreign exchange application used in financial applications.
 
 ## Project Architecture
 
-***INSERT ANOTHER GRAPHIC HERE***
 
 [![INSERT YOUR GRAPHIC HERE](https://github.com/Tuyji/foreing-exchange-application/blob/master/images/FlowDiagram.png)]()
 
@@ -38,7 +37,6 @@ Simple foreign exchange application used in financial applications.
 
 ## Running the application locally
 
-There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the `com.arc.sbtest.SBtemplateApplication` class from your IDE.
 
 - Download the zip or clone the Git repository.
 - Import Maven projects
@@ -58,14 +56,34 @@ There are several ways to run a Spring Boot application on your local machine. O
 
 ## Sample Images & Documentation
 
-### Eureka Server and Zuul Gateway
+### Eureka Server
+
+[![INSERT YOUR GRAPHIC HERE](https://github.com/Tuyji/foreing-exchange-application/blob/master/images/EurekaServer.PNG)]()
+
+
+### H2 Database
+
+#### Login
+
+[![INSERT YOUR GRAPHIC HERE](https://github.com/Tuyji/foreing-exchange-application/blob/master/images/H2DatabaseLogin.PNG)]()
+
+
+#### DB Interface
+
+[![INSERT YOUR GRAPHIC HERE](https://github.com/Tuyji/foreing-exchange-application/blob/master/images/H2Database.PNG)]()
+
 
 ### Swagger UI
 
 
-* [Postman Collection](https://documenter.getpostman.com/view/2449187/RWTiwzb2) - online, with code auto-generated snippets in cURL, jQuery, Ruby,Python Requests, Node, PHP and Go programming languages
-* [Postman Collection](https://github.com/AnanthaRajuC/Spring-Boot-Application-Template/blob/master/Spring%20Boot%20Template.postman_collection.json) - offline
-* [Swagger](http://localhost:8088/swagger-ui.html) - Documentation & Testing
+#### Exchange Rate API Swagger Documentation
+
+[![INSERT YOUR GRAPHIC HERE](https://github.com/Tuyji/foreing-exchange-application/blob/master/images/SwaggerUI1.png)]()
+
+
+#### Conversions API Swagger Documentation
+
+[![INSERT YOUR GRAPHIC HERE](https://github.com/Tuyji/foreing-exchange-application/blob/master/images/SwaggerUI2.png)]()
 
 
 ## packages
