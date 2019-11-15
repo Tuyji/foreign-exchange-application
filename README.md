@@ -2,6 +2,7 @@
 
 Simple foreign exchange application used in financial applications.
 
+
 ## Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
@@ -20,6 +21,7 @@ Simple foreign exchange application used in financial applications.
 - [ ] Central Logging
 
 
+
 ## Project Architecture
 
 
@@ -27,12 +29,14 @@ Simple foreign exchange application used in financial applications.
 
 ## Modules
 
-### conversion-api
-### exchange-rate-api
-### fixer-api-client
-### foreign-exchange-common
-### foreign-exchange-eureka-server
-### foreign-exchange-eureka-zuul
+- ### conversion-api
+- ### exchange-rate-api
+- ### fixer-api-client
+- ### foreign-exchange-common
+- ### foreign-exchange-eureka-server
+- ### foreign-exchange-eureka-zuul
+
+
 
 
 ## Running the application locally
