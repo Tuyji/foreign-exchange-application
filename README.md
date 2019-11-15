@@ -9,6 +9,7 @@ Simple foreign exchange application used in financial applications.
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - Java™ Platform
 * [Spring Boot](https://spring.io/projects/spring-boot) - Framework to ease the bootstrapping and development of new Spring Applications
 * [Spring Cloud](https://spring.io/projects/spring-cloud) - Distributed/versioned configuration & Service registration and discovery & Routing
+* [Spring Cloud Netflix](https://cloud.spring.io/spring-cloud-netflix/reference/html/) - The patterns provided include Service Discovery (Eureka), Circuit Breaker (Hystrix), Intelligent Routing (Zuul) and Client Side Load Balancing (Ribbon).
 * [H2 Database](https://www.h2database.com/) - Java SQL database -  in-memory database
 * [git](https://git-scm.com/) - Free and Open-Source distributed version control system
 * [Lombok](https://projectlombok.org/) - Java library that automatically plugs into your editor and build tools, spicing up your java.
