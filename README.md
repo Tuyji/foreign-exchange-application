@@ -14,7 +14,8 @@ Simple foreign exchange application used in financial applications.
 * [Lombok](https://projectlombok.org/) - Java library that automatically plugs into your editor and build tools, spicing up your java.
 * [Swagger](https://swagger.io/) - Open-Source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful Web services.
 * [Postman](https://www.getpostman.com/) - API Development Environment (Testing Docmentation)
-
+* [JUnit5](https://junit.org/junit5/) - JUnit 5 is the next generation of JUnit. The goal is to create an up-to-date foundation for developer-side testing on the JVM
+* [Mockito](https://site.mockito.org/) - Tasty mocking framework for unit tests in Java
 
 ## To-Do
 
