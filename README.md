@@ -92,6 +92,15 @@ Simple foreign exchange application used in financial applications.
 [![INSERT YOUR GRAPHIC HERE](https://github.com/Tuyji/foreing-exchange-application/blob/master/images/SwaggerUI2.png)]()
 
 
+#### Postman Collection
+
+
+* [foreign-exchange-application.postman_collection.json](https://github.com/Tuyji/foreign-exchange-application/blob/master/foreign-exchange-application.postman_collection.json)
+
+
+[![INSERT YOUR GRAPHIC HERE](https://github.com/Tuyji/foreing-exchange-application/blob/master/images/Collection.PNG)]()
+
+
 ## packages
 
 - `model` — entity holders;
